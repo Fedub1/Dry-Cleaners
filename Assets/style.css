@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(135, 187, 207)
+}
+
+jumbotron {
+    color: rgb(184, 179, 179)
+}
+img {
+    width: 100%;
+    height: auto
+};
+.footer{
+    align-items: center;
+}
