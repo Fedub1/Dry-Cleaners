@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(135, 187, 207)
+    background-color: white
 }
 
 jumbotron {
@@ -8,7 +8,9 @@ jumbotron {
 img {
     width: 100%;
     height: auto
+    border-radius: 8px;
 };
-.footer{
+#fa-footer{
     align-items: center;
+    color: rgb(78, 138, 176)
 }
